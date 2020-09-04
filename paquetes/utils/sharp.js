@@ -1,0 +1,1 @@
+// Queda pendiente esta practica, debido a que no pude instalar el sharp
