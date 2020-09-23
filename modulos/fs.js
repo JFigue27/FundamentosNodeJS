@@ -28,5 +28,5 @@ const deleteFile = (path, cb) => {
 }
 
 // write(__dirname + '\\archivo-2.txt', 'I am a new file...', console.log);
-// read(__dirname + '\\archivo.txt', console.log);
-deleteFile(__dirname + '\\archivo-2.txt', console.log);
+read(__dirname + '\\archivo.txt', console.log);
+// deleteFile(__dirname + '\\archivo-2.txt', console.log);
